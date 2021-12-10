@@ -209,10 +209,10 @@
     "@babel/helper-validator-identifier" "^7.14.0"
     to-fast-properties "^2.0.0"
 
-"@blucass/eslint-config-typescript@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@blucass/eslint-config-typescript/-/eslint-config-typescript-1.0.0.tgz#7f03260bf7f1bb75869e940e91dfb96d6595de75"
-  integrity sha512-qMqHr/KG77tIUgI5kAIXInwpc132CkfHjQKPPEYKH8+7CsHKct2A6l0slP3muRmLVHuMOOLW7a03hBmhF8Ps5A==
+"@blucass/eslint-config-typescript@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmmirror.com/@blucass/eslint-config-typescript/download/@blucass/eslint-config-typescript-1.0.1.tgz#ea2df6d8ecda38b63f15ef5afdc6e1f14362e07f"
+  integrity sha512-9FylERaEXhbsKLV27vSSrWWIOErnT3ar8QPaWLJdNrGuIZ0x2GVLVcKPrGAEHbqLAm9ebA8gNqj28LPWQCtAqg==
   dependencies:
     "@babel/core" "^7.14.2"
     "@babel/eslint-parser" "^7.14.2"
