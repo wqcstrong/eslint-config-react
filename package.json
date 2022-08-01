@@ -1,6 +1,6 @@
 {
   "name": "@blucass/eslint-config-react",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A set of lint config rules for react project",
   "author": "blucass <15555602203@163.com>",
   "homepage": "https://github.com/wqcstrong/eslint-config-react/blob/main/README.md",
@@ -21,7 +21,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "@blucass/eslint-config-typescript": "^1.0.1",
+    "@blucass/eslint-config-typescript": "^1.1.0",
     "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4.2.0"
   },
