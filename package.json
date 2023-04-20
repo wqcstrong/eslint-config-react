@@ -21,7 +21,7 @@
     "commit": "git-cz"
   },
   "dependencies": {
-    "@blucass/eslint-config-typescript": "^2.0.0",
+    "@blucass/eslint-config-typescript": "latest",
     "eslint-plugin-react": "^7.30.1",
     "eslint-plugin-react-hooks": "^4.6.0"
   },
